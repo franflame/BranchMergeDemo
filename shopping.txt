@@ -3,3 +3,5 @@ SHOPPING LIST
 * oats
 * broccoli
 * chocolate
+* bread
+* tomatoes
